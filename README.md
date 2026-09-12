@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MdISBAULHAQUE/DSA/tree/master/0115-distinct-subsequences) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/MdISBAULHAQUE/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
