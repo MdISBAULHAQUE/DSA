@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MdISBAULHAQUE/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MdISBAULHAQUE/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
