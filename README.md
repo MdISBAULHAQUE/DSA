@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MdISBAULHAQUE/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/MdISBAULHAQUE/DSA/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MdISBAULHAQUE/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/MdISBAULHAQUE/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MdISBAULHAQUE/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MdISBAULHAQUE/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/MdISBAULHAQUE/DSA/tree/master/0143-reorder-list) |
 | [1096-brace-expansion-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/1096-brace-expansion-ii) |
 ## Geometry
@@ -144,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MdISBAULHAQUE/DSA/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MdISBAULHAQUE/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
