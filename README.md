@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/MdISBAULHAQUE/DSA/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MdISBAULHAQUE/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MdISBAULHAQUE/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MdISBAULHAQUE/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
