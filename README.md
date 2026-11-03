@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/MdISBAULHAQUE/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MdISBAULHAQUE/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MdISBAULHAQUE/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MdISBAULHAQUE/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/MdISBAULHAQUE/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MdISBAULHAQUE/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/MdISBAULHAQUE/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MdISBAULHAQUE/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
