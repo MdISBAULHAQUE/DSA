@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/MdISBAULHAQUE/DSA/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MdISBAULHAQUE/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MdISBAULHAQUE/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/MdISBAULHAQUE/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
